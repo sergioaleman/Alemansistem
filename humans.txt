@@ -1,0 +1,56 @@
+/* Somos humanos, queremos una web humana */
+/* humanstxt.org */
+
+/* TEAM */
+	Desarrollador: Sergio Alemán
+	Profesión: Estudiante de Ingeniería de Sistemas
+        Universidad de Oriente Núcleo de Monagas, Venezuela
+        GitHub: https://github.com/sergioaleman
+	Site: https://www.boludo.com.ve
+        Blog: https://boludooficial.WordPress.com
+	Contacto: info [at] boludo.com.ve
+	Twitter: @SergioAleman1
+        Instagram: @SergioAlemanOficial
+        Facebook: https://www.facebook.com/SergioAlemanOficial
+	Location: Maturín, Venezuela
+		
+
+/* SITE */
+	Last update: Today
+	Language: Spanish, Spain
+	Doctype: HTML5
+        Standards: XHTML, CSS
+	CMS: WordPress 6.x (PHP y MySQL)
+	Components: jQuery, 
+	IDE: Coda, Photoshop, TextEdit, Transmit
+	Elements: CCS3, Gzip, Strong ETag
+	Protocolos: IPv4, IPv6, HTTP 1.1, SPDY y HTTP/2
+	Herramientas: Notepad++, FileZilla, Photoshop, Firefox, FireFTP (Waterfox Classic), Photoshop, https://squoosh.app/, Google Chrome	
+	Uptime: https://uptimerobot.com/ - Cloudflare		
+	Servicio de Hosting: https://ifastnet.com/
+	Tipo de alojamiento: Servidor VPS
+	Analitica: Google Analytics 
+	Publicidad: Google AdSense
+	Servicio CDN/Reverse Proxy: https://www.cloudflare.com/
+	SSL: Comodo CA Limited
+	Tecnologia: Nginx
+
+
+/* OTHERS */	
+Software y aplicaciones (PC) 
+	Servidor: XAMP
+    VPN: Proton (gratis una cuenta), Windscripbe (gratis 10 GB al mes)
+	Notepad++, plugin HTML Tag (https://bitbucket.org/rdipardo/htmltag/downloads/)	
+	Navegador: Google Chrome (varias apps y extensiones)
+	https://squoosh.app/ (Optimizar imagenes para la web)	
+	Extension FireFTP (en Waterfox Classic) - Cliente SFTP Subida archivos al servidor
+	PhotoshopCS6Portable	
+	
+
+    Backup y respaldo: Syncfolders - Guardar copias de la carpeta del servidor offline: http://www.syncfolders.elementfx.com/
+    Backup y respaldo: Google Drive	
+
+        Más información técnica: https://www.boludo.com.ve/datos-tecnicos-del-sitio-web-infoudo
+	Información sobre cómo hacer mi humans.txt:
+	https://www.boludo.com.ve/como-hacer-un-humanstxt-y-para-que-tenerlo-en-un-blog-o-sitio-web
+	Información sobre publicación en internet: https://www.boludo.com.ve/categoría/web
